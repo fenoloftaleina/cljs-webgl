@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/ja\/cljs-webgl\/resources\/public\/cljs-out\/cljs_webgl\/misc.js","sources":["misc.cljs"],"lineCount":23,"mappings":";AAAA;;AAEA;;;;;;;;;;;;;;;+CAAA,\/CAAMA,sGAcHC,WAAWC;AAdd,AAeE,OAAYD,qBAAWC","names":["cljs-webgl.misc\/is-capability-enabled?","gl-context","capability"]}

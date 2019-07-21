@@ -1,0 +1,41 @@
+// Compiled by ClojureScript 1.10.339 {}
+goog.provide('cljs_webgl.constants.framebuffer_object');
+goog.require('cljs.core');
+cljs_webgl.constants.framebuffer_object.framebuffer = (36160);
+cljs_webgl.constants.framebuffer_object.renderbuffer = (36161);
+cljs_webgl.constants.framebuffer_object.rgba4 = (32854);
+cljs_webgl.constants.framebuffer_object.rgb5_a1 = (32855);
+cljs_webgl.constants.framebuffer_object.rgb565 = (36194);
+cljs_webgl.constants.framebuffer_object.depth_component16 = (33189);
+cljs_webgl.constants.framebuffer_object.stencil_index = (6401);
+cljs_webgl.constants.framebuffer_object.stencil_index8 = (36168);
+cljs_webgl.constants.framebuffer_object.depth_stencil = (34041);
+cljs_webgl.constants.framebuffer_object.renderbuffer_width = (36162);
+cljs_webgl.constants.framebuffer_object.renderbuffer_height = (36163);
+cljs_webgl.constants.framebuffer_object.renderbuffer_internal_format = (36164);
+cljs_webgl.constants.framebuffer_object.renderbuffer_red_size = (36176);
+cljs_webgl.constants.framebuffer_object.renderbuffer_green_size = (36177);
+cljs_webgl.constants.framebuffer_object.renderbuffer_blue_size = (36178);
+cljs_webgl.constants.framebuffer_object.renderbuffer_alpha_size = (36179);
+cljs_webgl.constants.framebuffer_object.renderbuffer_depth_size = (36180);
+cljs_webgl.constants.framebuffer_object.renderbuffer_stencil_size = (36181);
+cljs_webgl.constants.framebuffer_object.framebuffer_attachment_object_type = (36048);
+cljs_webgl.constants.framebuffer_object.framebuffer_attachment_object_name = (36049);
+cljs_webgl.constants.framebuffer_object.framebuffer_attachment_texture_level = (36050);
+cljs_webgl.constants.framebuffer_object.framebuffer_attachment_texture_cube_map_face = (36051);
+cljs_webgl.constants.framebuffer_object.color_attachment0 = (36064);
+cljs_webgl.constants.framebuffer_object.depth_attachment = (36096);
+cljs_webgl.constants.framebuffer_object.stencil_attachment = (36128);
+cljs_webgl.constants.framebuffer_object.depth_stencil_attachment = (33306);
+cljs_webgl.constants.framebuffer_object.none = (0);
+cljs_webgl.constants.framebuffer_object.framebuffer_complete = (36053);
+cljs_webgl.constants.framebuffer_object.framebuffer_incomplete_attachment = (36054);
+cljs_webgl.constants.framebuffer_object.framebuffer_incomplete_missing_attachment = (36055);
+cljs_webgl.constants.framebuffer_object.framebuffer_incomplete_dimensions = (36057);
+cljs_webgl.constants.framebuffer_object.framebuffer_unsupported = (36061);
+cljs_webgl.constants.framebuffer_object.framebuffer_binding = (36006);
+cljs_webgl.constants.framebuffer_object.renderbuffer_binding = (36007);
+cljs_webgl.constants.framebuffer_object.max_renderbuffer_size = (34024);
+cljs_webgl.constants.framebuffer_object.invalid_framebuffer_operation = (1286);
+
+//# sourceMappingURL=framebuffer_object.js.map

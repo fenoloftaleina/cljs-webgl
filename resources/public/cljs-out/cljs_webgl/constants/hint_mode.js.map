@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/ja\/cljs-webgl\/resources\/public\/cljs-out\/cljs_webgl\/constants\/hint_mode.js","sources":["hint_mode.cljs"],"lineCount":8,"mappings":";AAAA;;AAEA,2CAAA,3CAAKA;AACL,wCAAA,xCAAKC;AACL,yCAAA,zCAAKC","names":["cljs-webgl.constants.hint-mode\/dont-care","cljs-webgl.constants.hint-mode\/nicest","cljs-webgl.constants.hint-mode\/fastest"]}

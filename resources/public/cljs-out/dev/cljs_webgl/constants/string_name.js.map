@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/ja\/cljs-webgl\/resources\/public\/cljs-out\/dev\/cljs_webgl\/constants\/string_name.js","sources":["string_name.cljs"],"lineCount":8,"mappings":";AAAA;;AAEA,0CAAA,1CAAKA;AACL,4CAAA,5CAAKC;AACL,2CAAA,3CAAKC","names":["cljs-webgl.constants.string-name\/vendor","cljs-webgl.constants.string-name\/renderer","cljs-webgl.constants.string-name\/version"]}
