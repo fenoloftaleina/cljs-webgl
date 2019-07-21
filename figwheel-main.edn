@@ -1,1 +1,2 @@
-{:target-dir "resources"}
+{:target-dir "resources"
+ :post-build-hooks [cljs-webgl.build-fixer/go]}
